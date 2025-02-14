@@ -1,0 +1,735 @@
+[
+  {
+    "task_name": "3UG-64530-3AO",
+    "model": [
+      {
+        "path": "D:/model/3UG-64530-3AO.pt",
+        "conf": 0.2
+      }
+    ],
+    "targets": [
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          1047,
+          694,
+          1110,
+          756
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          979,
+          668,
+          1047,
+          736
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          300,
+          1061,
+          365,
+          1126
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          204,
+          936,
+          271,
+          1001
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          983,
+          926,
+          1050,
+          991
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          980,
+          609,
+          1044,
+          674
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          299,
+          941,
+          364,
+          1007
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          198,
+          1054,
+          263,
+          1122
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          980,
+          725,
+          1043,
+          789
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          1209,
+          694,
+          1272,
+          756
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          1034,
+          923,
+          1100,
+          987
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          894,
+          699,
+          962,
+          767
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          214,
+          818,
+          277,
+          880
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT1",
+        "predefined_region": [
+          308,
+          816,
+          375,
+          879
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT2",
+        "predefined_region": [
+          1917,
+          702,
+          1990,
+          773
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SPOT2",
+        "predefined_region": [
+          2006,
+          677,
+          2081,
+          749
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-5",
+        "predefined_region": [
+          1574,
+          428,
+          1644,
+          496
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-7",
+        "predefined_region": [
+          1338,
+          861,
+          1407,
+          929
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-8",
+        "predefined_region": [
+          1234,
+          292,
+          1289,
+          346
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-8.5",
+        "predefined_region": [
+          701,
+          761,
+          762,
+          822
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-8.5",
+        "predefined_region": [
+          1115,
+          544,
+          1176,
+          605
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-11",
+        "predefined_region": [
+          1039,
+          566,
+          1107,
+          630
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-11",
+        "predefined_region": [
+          1040,
+          778,
+          1106,
+          844
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-13",
+        "predefined_region": [
+          2261,
+          234,
+          2338,
+          312
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-15",
+        "predefined_region": [
+          1501,
+          284,
+          1586,
+          368
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-15",
+        "predefined_region": [
+          921,
+          820,
+          1003,
+          898
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      
+      {
+        "label": "HOLE-20",
+        "predefined_region": [
+          1582,
+          256,
+          1683,
+          353
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-20",
+        "predefined_region": [
+          1681,
+          240,
+          1782,
+          338
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-6x6",
+        "predefined_region": [
+          1602,
+          582,
+          1659,
+          641
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-7x12",
+        "predefined_region": [
+          1488,
+          845,
+          1565,
+          914
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-7x12",
+        "predefined_region": [
+          1232,
+          585,
+          1309,
+          647
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-7x12",
+        "predefined_region": [
+          772,
+          891,
+          847,
+          950
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-7x12",
+        "predefined_region": [
+          1264,
+          707,
+          1327,
+          781
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-7x12",
+        "predefined_region": [
+          1109,
+          847,
+          1185,
+          906
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "HOLE-13x17",
+        "predefined_region": [
+          2327,
+          825,
+          2417,
+          900
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "BOLT1",
+        "predefined_region": [
+          1772,
+          708,
+          1855,
+          792
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "BOLT2",
+        "predefined_region": [
+          2205,
+          681,
+          2285,
+          759
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "NUT-M6",
+        "predefined_region": [
+          2327,
+          486,
+          2399,
+          558
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "NUT-M6",
+        "predefined_region": [
+          2137,
+          492,
+          2204,
+          558
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "NUT-M6",
+        "predefined_region": [
+          1599,
+          543,
+          1667,
+          606
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "NUT-M6",
+        "predefined_region": [
+          1550,
+          454,
+          1619,
+          525
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "FE",
+        "predefined_region": [
+          1856,
+          823,
+          1950,
+          925
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "FE",
+        "predefined_region": [
+          2194,
+          819,
+          2292,
+          921
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "SMALL-PART",
+        "predefined_region": [
+          1905,
+          646,
+          2035,
+          725
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      },
+      {
+        "label": "ORDER",
+        "predefined_region": [
+          185,
+          879,
+          249,
+          952
+        ],
+        "conf1": 0.70,
+        "conf2": 0.70,
+        "color": [
+          0,
+          255,
+          0
+        ]
+      }
+    ]
+  }
+]
